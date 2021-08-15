@@ -1,4 +1,8 @@
 
+<a href="https://github.com/sudo-Wonjun"><img src="https://img.shields.io/badge/My page-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
+
+1 Day 1 Commit!!
+
 
 <!--
 **sudo-Wonjun/sudo-Wonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
